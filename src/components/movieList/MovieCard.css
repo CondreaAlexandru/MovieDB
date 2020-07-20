@@ -1,0 +1,18 @@
+.title {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    float: right;
+}
+
+span img {
+    position: relative;
+    z-index: 2;
+    top:0px;
+}
+
+.cardContainer {
+    z-index: 1;
+}

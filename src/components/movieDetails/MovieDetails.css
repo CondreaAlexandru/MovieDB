@@ -1,0 +1,32 @@
+.movieContainer {
+   
+    margin: 25px 0px 0px 0px;
+}
+
+.cardDetails {
+    float: right;
+}
+
+.cardDetails li {
+    width: 100%;
+    padding: 10px;
+    margin-right: 50%;
+    font-weight: bold;
+    list-style: none;
+}
+
+.cardDetails span {
+    color: blue;
+    font-weight: bold;
+}
+
+p span {
+    color: blue;
+    font-weight: bold;
+}
+
+.description {
+    line-height: 1.5rem;
+    word-spacing: 2px;
+    font-size: 14px;
+}
